@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color:royalblue;
+
+}
+div.main{
+    width: 400px;
+    margin: 100px auto 0px auto;
+background-color:whitesmoke;
+}
+#submit{
+    border-radius: 16%;
+    font-size: 15px;
+    height: 30px;
+    width: 100px;
+    margin-bottom: 20px;
+}
+
+#Cancel{
+    border-radius: 16%;
+    font-size: 15px;
+    height: 30px;
+    width: 100px;
+    margin-bottom: 20px;
+}
+#Cancel:hover,#submit:hover{
+    
+    background-color: red;
+    color:whitesmoke ;
+}
